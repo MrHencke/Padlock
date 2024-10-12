@@ -1,0 +1,57 @@
+# Build Folders
+build/
+[Bb]uild/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+
+# Visual Studio Files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Artifacts
+*.obj
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+*.sdf
+*.ipch
+*.iobj
+*.ipdb
+
+# Visual Studio Code
+.vscode/
+
+# Windows Specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.ncb
+*.o
+
+# Editor Specific
+*.DS_Store
+
+# Precompiled Header
+*.gch
+
+# Other
+*.tlog
+*.lastbuildstate
+*.vs/
+
+Padlock

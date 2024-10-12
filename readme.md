@@ -1,0 +1,1 @@
+A simple win32-api based screen locker, uses shortcuts and/or a system tray icon to arm itself. The disarm code is wholly customizable within accessible ASCII characters on the base level of a keyboard. When armed, any input other than the disarm code in correct sequence will lock the host computer. Was made to prank people at a LAN party.
